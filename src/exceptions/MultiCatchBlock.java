@@ -6,7 +6,10 @@ public class MultiCatchBlock {
     public static void main(String[] args) {
 
 
-
+    // THIS CHANGE IS MADE BY ME
+        
+        
+        
 
 
 //        try{

@@ -70,17 +70,19 @@ public class MultiCatchBlock {
 
 
 
-//        try{
-//            Integer.parseInt("23");
-//            String str = "null";
-//            System.out.println(str.toUpperCase());
-//            System.out.println(2/0);
-//            int[] arr = {1};
-//            System.out.println(arr[1]);
-//        }
-//        catch (NumberFormatException | NullPointerException | ArithmeticException | ArrayIndexOutOfBoundsException e){
-//            e.printStackTrace();
-//        }
+        try{
+            Integer.parseInt("23");
+            String str = "null";
+            System.out.println(str.toUpperCase());
+            System.out.println(2/0);
+            int[] arr = {1};
+            System.out.println(arr[1]);
+        }
+        catch (NumberFormatException | NullPointerException | ArithmeticException | ArrayIndexOutOfBoundsException e){
+            e.printStackTrace();
+        }
+
+        // cdvsdvhgsdgh
 
 
 

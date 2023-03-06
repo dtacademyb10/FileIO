@@ -10,7 +10,7 @@ public class WriteRead {
     public static void main(String[] args) throws FileNotFoundException {
 
 
-
+      // My Comment
 
         // File IO classes can be categorized to text IO and binary IO classes
 
